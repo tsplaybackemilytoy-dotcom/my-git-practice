@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿這是 main 的內容
+=======
+﻿這是 conflict-branch 的內容
+>>>>>>> conflict-branch
